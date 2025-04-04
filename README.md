@@ -1,5 +1,5 @@
 - Hello there.
 - I am Summer-the-coder, although I usually go by simply "Summer".
-- I have quite good knowledge of JS (although only the clientside part for now). Looking forward to learn Python and, after that, learn C#.
+- I have quite good knowledge of JS (although only the clientside part for now) and Python. Looking forward to learn C# (mostly for Unity), and, after that, I plan to dive into how computers work on the lower level, and, therefore, learn C and C++.
 - My dream is to become a gamedev at some point in the future. 
 - Here be dragons...

@@ -7,5 +7,6 @@
   - Java
   - C#
   - C++, C (though I prefer C++)
+  - Go
 - My dream is to become a gamedev at some point in the future. 
 - Here be dragons...

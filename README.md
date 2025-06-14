@@ -1,6 +1,6 @@
 - Hello there.
 - I am Summer-the-coder, although I usually go by simply "Summer".
-- I have knowledge of (in order of skill):
+- I have knowledge of (in order of skill; highest to lowest):
   - JS, TS
   - Python
   - PHP
